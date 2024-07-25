@@ -140,7 +140,7 @@ input::placeholder {
 .foe .inner {
     flex-grow: 1;
     overflow-y: hidden;
-    overflow-x: auto;
+    overflow-x: hidden;
 }
 .foe .inner:hover {
     background: var(--color-mid2);
