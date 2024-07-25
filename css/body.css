@@ -42,6 +42,7 @@ body {
 
     font-family: 'Kirsty';
     margin: 0;
+    overflow-x: hidden;
     background: var(--color-dark);
 }
 
