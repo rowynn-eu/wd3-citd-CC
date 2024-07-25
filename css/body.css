@@ -36,7 +36,7 @@ body {
     --foe-inner-height: calc(8px + var(--scrollbar-thickness));
     --foe-height: calc(var(--font-size-row) + 5px);
 
-    --clock-description-width: 100px;
+    --clock-description-width: 155px;
     --clock-border-thickness: 3px;
     --new-clock-button-diameter: 50px;
 
